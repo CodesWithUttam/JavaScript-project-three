@@ -1,1 +1,1 @@
-# JavaScript-project-three
+# Analog clock
